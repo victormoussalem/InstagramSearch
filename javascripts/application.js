@@ -2,7 +2,7 @@ nstagram = {};
 
 // Small object for holding important configuration data.
 Instagram.Config = {
-  clientID: 'a307c0d0dada4b77b974766d71b72e0e',
+  clientID: '1817875ec64a4c9daa186ac45b5b9351',
   apiHost: 'https://api.instagram.com'
 };
 
